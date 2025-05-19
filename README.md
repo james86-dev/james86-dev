@@ -23,10 +23,8 @@
 
 
 ###
-<div style="display: grid; grid-template-columns: auto 1fr; align-items: center;">
-    <img src="https://media.tenor.com/ls5KtfBxJUMAAAAi/mythikore-anime-girl.gif" width="100" />
-    <h1 style="text-align: center;">🔧 Tech Stack</h1>
-</div>
+| <img src="https://media.tenor.com/ls5KtfBxJUMAAAAi/mythikore-anime-girl.gif" width="100" /> | 🔧 **Tech Stack** |
+|:-|:-:|
 
 <br><br>
 <div align="center">
