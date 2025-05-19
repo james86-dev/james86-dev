@@ -26,6 +26,12 @@
     <li>
         <b>Studying applied computer science:</b>
     </li>
+    <li>
+        <b>Studying applied computer science:</b>
+    </li>
+    <li>
+        <b>Studying applied computer science:</b>
+    </li>
 
 </div>
 <div>
