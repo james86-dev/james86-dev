@@ -4,8 +4,8 @@
 </div>
 
 ###
-<h1 align="center">👨‍💻 About Me</h1>
-<div align="center">
+<h1 align="left">👨‍💻 About Me</h1>
+<div align="left">
   <p>Hey there! I'm James, a passionate developer exploring the realms of AI, Web Development, and Game Development.</p>
   <p>🎓 Studying Applied Computer Science</p>
   <p>🎮 Loves anime, osu, and rhythm games</p>
