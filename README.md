@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <body>
-<h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
+<h1 align="center">~ 💫 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💫 ~</h1>
 <br>
 <div align="center">
     <img src="https://i.imgur.com/jx17oHT.gif">
@@ -10,25 +10,19 @@
     <h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
     <img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
     <li>
-        <b>Name:</b> Yukii</li>
+        <b>Name:</b> James</li>
     <li>
-        <b>Nationality:</b> Pink Fluffy Unicorn
+        <b>Nationality:</b> German
     </li>
     <li>
-        <b>Loves:</b> you! and donuts and games maybe -///-
+        <b>Hobbys:</b> Tech & AI Explorer, Game Development
     </li>
     <li>
-        <b>Gender:</b> she/her/Female
-    </li>
-    <li>
-        <b>Hobbys:</b> Tech Stuff, Graphics Design, Music
-    </li>
-    <li>
-        <b>Working @:</b> Intave Anticheat & MinetaniaNET
+        <b>Working @:</b> /
     </li>
     <br>
-    <p><b>     Thanks fow weading this onyee-san<br>
-                             verwy cuwute of chu</b></p>
+    <p><b>     Thanks for reading!</b></p>
+
 </div>
 <div>
     <h2 align="left" style="font-size: 24px">                  ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
