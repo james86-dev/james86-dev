@@ -5,6 +5,7 @@
 
 ###
 <h1 align="left">👨‍💻 About Me</h1>
+<br><br>
 <div align="left">
   <p>Hey there! I'm James, a passionate developer exploring the realms of AI, Web Development, and Game Development.</p>
   <p>🎓 Studying Applied Computer Science</p>
