@@ -1,4 +1,6 @@
-<div class="tenor-gif-embed" data-postid="4292219348469538497" data-share-method="host" data-aspect-ratio="1.13287" data-width="100%"><a href="https://tenor.com/view/wave-hi-gif-4292219348469538497">Wave Hi Sticker</a>from <a href="https://tenor.com/search/wave-stickers">Wave Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://tenor.com/de/view/wave-hi-gif-4292219348469538497"  />
+</div>
 
 ###
 
