@@ -20,10 +20,12 @@
     <li>
         <b>Studying applied computer science:</b>
     </li>
-    <br>
-    <br>
-    <br>
-    <br>
+    <li>
+        <b>Studying applied computer science:</b>
+    </li>
+    <li>
+        <b>Studying applied computer science:</b>
+    </li>
 
 </div>
 <div>
