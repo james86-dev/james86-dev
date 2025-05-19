@@ -5,7 +5,7 @@
 
 ###
 <h1 align="left">👨‍💻 About Me</h1>
-<br><br>
+<br>
 <div align="left">
   <p>Hey there! I'm James, a passionate developer exploring the realms of AI, Web Development, and Game Development.</p>
   <p>🎓 Studying Applied Computer Science</p>
@@ -14,13 +14,14 @@
 </div>
 <br><br>
 <img height="225" align="right" src="https://media.tenor.com/PEp7__gqEYoAAAAi/mythikore-anime-girl.gif" />
+<br><br><br>
 
 
 
 ###
 
 <h1 align="left">🔧 Tech Stack</h1>
-<br><br>
+<br>
 <div align="left">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
