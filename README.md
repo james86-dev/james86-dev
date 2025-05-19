@@ -19,9 +19,11 @@
 </div>
 
 ###
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=james86-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="Stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=james86-dev&locale=en&hide_title=false&layout=compact&card_width=250&langs_count=5&theme=dark&hide_border=true" height="150" alt="Languages graph" />
+<div style="display: flex; align-items: center;">
+  <div>
+    <!-- Your existing content -->
+  </div>
+  <img src="https://media.tenor.com/PEp7__gqEYoAAAAi/mythikore-anime-girl.gif" width="200" />
 </div>
 
 <br>
