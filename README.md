@@ -29,7 +29,7 @@
   <img align="left" src="https://media.tenor.com/ls5KtfBxJUMAAAAi/mythikore-anime-girl.gif" width="50">
   🔧 Tech Stack
 </h1>-->
-<table align="center">
+<table align="center" border="0">
   <tr>
     <td><img align="left" src="https://media.tenor.com/ls5KtfBxJUMAAAAi/mythikore-anime-girl.gif" width="100"></td>
     <td><h1>🔧 Tech Stack</h1></td>
