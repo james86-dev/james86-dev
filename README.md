@@ -19,7 +19,7 @@
 ###
 <div align="center">
   
-  ![Typing Effect](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=50&duration=500&pause=500&color=FFFFFF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hey👋%2C+I'm+James.)
+  ![Typing Effect](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=50&duration=1000&pause=500&color=FFFFFF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hey👋%2C+I'm+James.)
   
 </div>
 
