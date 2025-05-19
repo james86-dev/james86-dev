@@ -10,7 +10,6 @@
   <p>🎓 Studying Applied Computer Science</p>
   <p>🎮 Loves anime, osu, and rhythm games</p>
   <p>🚀 Always eager to learn and work on exciting projects</p>
-  <img align="right" src="https://media.tenor.com/PEp7__gqEYoAAAAi/mythikore-anime-girl.gif"/>
 </div>
 
 <br><br><br>
