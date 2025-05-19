@@ -14,17 +14,7 @@
 
 <br><br><br>
 
-<div style="position: absolute; right: 10px; top: 50%; transform: translateY(-50%);">
-  <img src="https://media.tenor.com/PEp7__gqEYoAAAAi/mythikore-anime-girl.gif" width="200" />
-</div>
-
-###
-<div style="display: flex; align-items: center;">
-  <div>
-    <!-- Your existing content -->
-  </div>
-  <img src="https://media.tenor.com/PEp7__gqEYoAAAAi/mythikore-anime-girl.gif" width="200" />
-</div>
+<img src="https://media.tenor.com/PEp7__gqEYoAAAAi/mythikore-anime-girl.gif" style="float: right; margin-left: 20px;" width="200" />
 
 <br>
 
