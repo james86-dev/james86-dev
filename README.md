@@ -25,16 +25,10 @@
 
 
 
-<!--<h1 align="center">
-  <img align="left" src="https://media.tenor.com/ls5KtfBxJUMAAAAi/mythikore-anime-girl.gif" width="50">
+<h1 align="center">
+  <img align="left" src="https://media.tenor.com/ls5KtfBxJUMAAAAi/mythikore-anime-girl.gif" width="150">
   🔧 Tech Stack
-</h1>-->
-<table align="center" border="0">
-  <tr>
-    <td><img align="left" src="https://media.tenor.com/ls5KtfBxJUMAAAAi/mythikore-anime-girl.gif" width="100"></td>
-    <td><h1>🔧 Tech Stack</h1></td>
-  </tr>
-</table>
+</h1>
 
 <br><br>
 <div align="center">
