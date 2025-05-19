@@ -58,17 +58,37 @@
 
 <br><br> <!-- Added space before next section -->
 
-<h2 align="center">📊 GitHub Stats</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=james86-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false"><br>
-<img src="https://nirzak-streak-stats.vercel.app/?user=james86-dev&theme=dark&hide_border=false"><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=james86-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+<h2 align="center">📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
 
-<br><br> <!-- Prevents overlap -->
+<div align="center">
+  <img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
+</div>
 
-<h2 align="center">🏆 GitHub Trophies</h2>
-<img src="https://github-profile-trophy.vercel.app/?username=james86-dev&theme=radical&no-frame=false&no-bg=true&margin-w=4">
+<br>
 
-<br><br> <!-- Extra space before the donation section -->
+<p align="center">
+  Hewe awe some of my <br>
+  most used s-s-sociaw things >~< xoxox
+</p>
+
+<p align="center">
+  <a href="https://twitter.com/Miellabun" target="_blank">
+    <img src="https://img.shields.io/badge/PwoolPwatyAkwali%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
+  </a>
+  <a href="https://discord.me/cozythighs" target="_blank">
+    <img src="https://img.shields.io/badge/CowzyThwighs%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+</p>
+
+<br>
+
+<h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓈 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
+
+<div align="center">
+  <img src="https://i.imgur.com/tzYKRfd.gif">
+</div>
+
+<hr>
 
 <h2 align="center">💰 You can help me by Donating</h2>
 <a href="https://ko-fi.com/james86-dev">
