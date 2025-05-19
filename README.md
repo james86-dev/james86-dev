@@ -8,7 +8,7 @@
 <div align="left">
   <p>Hey there! I'm James, a passionate developer exploring the realms of AI, Web Development, and Game Development.</p>
   <p>🎓 Studying Applied Computer Science</p>
-  <p>🎮 Loves anime, osu, and rhythm games</p>
+  <p>🎮 Likes: Anime, Osu, Rhythm Games, AI's, Tech</p>
   <p>🚀 Always eager to learn and work on exciting projects</p>
 </div>
 
