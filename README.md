@@ -14,7 +14,7 @@
 
 <br><br><br>
 
-<img align="right" src="https://media.tenor.com/PEp7__gqEYoAAAAi/mythikore-anime-girl.gif" style="float: right" width="200" />
+<img align="right" src="https://media.tenor.com/PEp7__gqEYoAAAAi/mythikore-anime-girl.gif"/>
 
 
 ###
