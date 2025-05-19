@@ -12,6 +12,8 @@
   <p>🚀 Always eager to learn and work on exciting projects</p>
 </div>
 
+<br><br>
+
 ###
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=50&duration=1000&pause=5000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hey👋%2C+I'm+James." />
