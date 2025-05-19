@@ -12,7 +12,7 @@
   <p>🚀 Always eager to learn and work on exciting projects</p>
 </div>
 
-<img align="right" src="https://media.tenor.com/PEp7__gqEYoAAAAi/mythikore-anime-girl.gif" />
+<img height="500" align="right" src="https://media.tenor.com/PEp7__gqEYoAAAAi/mythikore-anime-girl.gif" />
 
 
 
