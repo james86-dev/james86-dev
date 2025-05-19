@@ -19,12 +19,6 @@
 <br><br><br><br>
 
 ###
-<div style="position: relative; text-align: right;">
-  <img src="https://media.tenor.com/PEp7__gqEYoAAAAi/mythikore-anime-girl.gif" style="position: absolute; top: 0; right: 0; width: 150px; z-index: 10;" />
-  <p style="position: relative; z-index: 5;">Hey, I'm James!</p>
-</div>
-
-###
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=james86-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="Stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=james86-dev&locale=en&hide_title=false&layout=compact&card_width=250&langs_count=5&theme=dark&hide_border=true" height="150" alt="Languages graph" />
