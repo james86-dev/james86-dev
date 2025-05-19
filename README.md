@@ -5,10 +5,11 @@ Hi 👋🏼, I'm James.<br>👨🏼‍🎓 studying applied computer science
   <div align="center">
     <img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
   </div>
-  
-<li><b>Name:</b> James</li>
-<li><b>Loves:</b> anime, osu, rhythm games</li>
-<li><b>Hobbys:</b> Game/Web- Development, Tech & AI Explorer</li>
+  <div>
+    <li><b>Name:</b> James</li>
+    <li><b>Loves:</b> anime, osu, rhythm games</li>
+    <li><b>Hobbys:</b> Game/Web- Development, Tech & AI Explorer</li>
+  </div>
 
 
 #<h2 align="center">𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮</h2>
