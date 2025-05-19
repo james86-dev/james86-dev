@@ -1,7 +1,3 @@
-<!-- 🌟 Banner Image -->
-<div align="center">
-  <img src="https://wallpapercave.com/wp/wp5026790.jpg" width="100%" style="max-height: 300px; object-fit: cover;" alt="Banner">
-</div>
 <!-- 👋 Wave GIF -->
 <div align="center">
   <img height="250" src="https://media.tenor.com/O5EGwZuV3sEAAAAi/wave-hi.gif" />
