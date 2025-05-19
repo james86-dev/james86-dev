@@ -2,7 +2,7 @@
   <img height="250" src="https://media.tenor.com/O5EGwZuV3sEAAAAi/wave-hi.gif" />
 </div>
 
-### Social Links
+###
 
 <div align="center">
   <a href="https://linkedin.com">
@@ -16,26 +16,26 @@
   </a>
 </div>
 
-### Visitor Badge
+###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=james86-dev.james86-dev" />
 </div>
 
-### Typing Effect
+###
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=50&duration=1000&pause=5000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hey👋%2C+I'm+James." />
 </div>
 
-### GitHub Stats
+###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=james86-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="Stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=james86-dev&locale=en&hide_title=false&layout=compact&card_width=250&langs_count=5&theme=dark&hide_border=true" height="150" alt="Languages graph" />
 </div>
 
-### 💻 Tech Stack
+###
 
 <h1 align="center">💻 Tech Stack</h1>
 
