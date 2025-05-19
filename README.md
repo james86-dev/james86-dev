@@ -23,9 +23,9 @@
 
 
 ###
-<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+<div style="display: grid; grid-template-columns: auto 1fr; align-items: center;">
     <img src="https://media.tenor.com/ls5KtfBxJUMAAAAi/mythikore-anime-girl.gif" width="100" />
-    <h1 style="text-align: center; flex-grow: 1;">🔧 Tech Stack</h1>
+    <h1 style="text-align: center;">🔧 Tech Stack</h1>
 </div>
 
 <br><br>
