@@ -13,7 +13,7 @@
 </div>
 
 <img align="right" src="https://media.tenor.com/PEp7__gqEYoAAAAi/mythikore-anime-girl.gif" />
-<br><br><br>
+<br><br><br><br><br><br>
 
 
 ###
@@ -38,7 +38,6 @@
   <br><br>
 </div>
 <br><br><br>
-###
 <h1 align="left">🏆 GitHub Contributions</h1>
 <div align="left">
   <picture>
