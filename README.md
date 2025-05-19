@@ -22,9 +22,7 @@
 </div>
 
 <div align="left">
-  <br><br><br><br><br><br><br><br><br><br> <!-- Adds vertical spacing -->
-  <img src="https://media.tenor.com/ls5KtfBxJUMAAAAi/mythikore-anime-girl.gif" width="100">
-  <h1 align="center">🔧 Tech Stack</h1>
+  <img src="https://media.tenor.com/ls5KtfBxJUMAAAAi/mythikore-anime-girl.gif" width="100"><h1 align="center">🔧 Tech Stack</h1>
 </div>
 
 
