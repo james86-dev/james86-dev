@@ -18,9 +18,9 @@
 
 ###
 
-<h1 align="center">🔧 Tech Stack</h1>
+<h1 align="left">🔧 Tech Stack</h1>
 <br><br>
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -39,8 +39,8 @@
 </div>
 
 ###
-<h1 align="center">🏆 GitHub Contributions</h1>
-<div align="center">
+<h1 align="left">🏆 GitHub Contributions</h1>
+<div align="left">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/james86-dev/james86-dev/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/james86-dev/james86-dev/output/github-snake.svg" />
