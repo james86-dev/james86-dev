@@ -20,7 +20,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=50&duration=1000&pause=5000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hey👋%2C+I'm+James." />
 </div>
-<img src="https://media.tenor.com/ls5KtfBxJUMAAAAi/mythikore-anime-girl.gif" width="100" style="position: relative; top: 5000px;">
+<img src="https://media.tenor.com/ls5KtfBxJUMAAAAi/mythikore-anime-girl.gif" width="100" style="position: relative; top: 50px;">
 
 <h1 align="left">🔧 Tech Stack</h1>
 
