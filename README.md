@@ -25,7 +25,7 @@
 ###
 <div style="display: flex; align-items: center; justify-content: center;">
     <img src="https://media.tenor.com/ls5KtfBxJUMAAAAi/mythikore-anime-girl.gif" width="100">
-    <h1 style="text-align: center; flex: 1;">🔧 Tech Stack</h1>
+    <h1 style="text-align: center; flex: 2;">🔧 Tech Stack</h1>
 </div>
 
 <br><br>
