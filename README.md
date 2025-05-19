@@ -23,13 +23,9 @@
 
 ###
 
+<img align="left" src="https://media.tenor.com/ls5KtfBxJUMAAAAi/mythikore-anime-girl.gif" width="150">
 
-
-<h1 align="center">
-  🔧 Tech Stack
-  <img align="left" src="https://media.tenor.com/ls5KtfBxJUMAAAAi/mythikore-anime-girl.gif" width="150">
-</h1>
-
+<h1 align="center">🔧 Tech Stack</h1>
 <br><br>
 <div align="center">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
