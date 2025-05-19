@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi 👋🏼, I'm James.<br>👨🏼‍🎓 studying applied computer science
+# 💫 Hi 👋🏼, I'm James:
+👨🏼‍🎓 studying applied computer science
 
 
 # 💻 Tech Stack:
