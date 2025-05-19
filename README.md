@@ -1,6 +1,6 @@
 <!-- 👋 Wave GIF -->
 <div align="center">
-  <img width=100% height="250" src="https://media1.tenor.com/m/eyzxCLrT70YAAAAC/honkai-star-rail-hsr.gif" />
+  <img width=100% height="250" src="https://media1.tenor.com/m/ZgbfJDDS9yQAAAAC/anime-depressed.gif" />
 </div>
 
 ###
