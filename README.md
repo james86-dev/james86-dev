@@ -12,15 +12,7 @@
   <p>🚀 Always eager to learn and work on exciting projects</p>
 </div>
 
-<br><br>
-
-
-
-
-
-
-
-
+<br><br><br><br>
 
 ###
 <div align="center">
