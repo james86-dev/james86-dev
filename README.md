@@ -20,8 +20,6 @@
 <div align="center">
   
   ![Typing Effect](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=50&pause=100&color=FFFFFF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hey👋%2C+I'm+James.)
-
-<br><br><br><br>
   
 </div>
 
