@@ -1,9 +1,23 @@
+<!-- 🌟 Banner Image -->
+<div align="center">
+  <img src="https://your-banner-image-url.com/banner.png" width="100%" alt="Banner">
+</div>
+
+<!-- 👋 Wave GIF -->
 <div align="center">
   <img height="250" src="https://media.tenor.com/O5EGwZuV3sEAAAAi/wave-hi.gif" />
 </div>
 
-###
+### **About Me**
+<h1 align="center">👨‍💻 About Me</h1>
+<div align="center">
+  <p>Hey there! I'm James, a passionate developer exploring the realms of AI, Web Development, and Game Development.</p>
+  <p>🎓 Studying Applied Computer Science</p>
+  <p>🎮 Loves anime, osu, and rhythm games</p>
+  <p>🚀 Always eager to learn and work on exciting projects</p>
+</div>
 
+### **Social Links**
 <div align="center">
   <a href="https://linkedin.com">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
@@ -16,28 +30,23 @@
   </a>
 </div>
 
-###
-
+### **Visitor Count**
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=james86-dev.james86-dev" />
 </div>
 
-###
-
+### **Typing Animation**
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=50&duration=1000&pause=5000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hey👋%2C+I'm+James." />
 </div>
 
-###
-
+### **GitHub Stats**
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=james86-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="Stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=james86-dev&locale=en&hide_title=false&layout=compact&card_width=250&langs_count=5&theme=dark&hide_border=true" height="150" alt="Languages graph" />
 </div>
 
-###
-
-<h1 align="center">🔧 Tech Stack</h1>
+### **🔧 Tech Stack**
 <div align="center">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
@@ -55,8 +64,7 @@
   <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
 </div>
 
-###
-<h1 align="center">🏆 GitHub Contributions</h1>
+### **🏆 GitHub Contributions**
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/james86-dev/james86-dev/output/github-snake-dark.svg" />
@@ -65,10 +73,7 @@
   </picture>
 </div>
 
-###
-
-
-<h1 align="center">☕ Support Me</h1>
+### **☕ Support Me**
 <div align="center">
   <a href="https://www.ko-fi.com/james86-dev">
     <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" width="160" alt="Ko-fi" />
