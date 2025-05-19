@@ -23,12 +23,10 @@
 
 
 ###
-<table style="border-collapse: collapse; border: none;">
-  <tr>
-    <td style="border: none;"><img src="https://media.tenor.com/ls5KtfBxJUMAAAAi/mythikore-anime-girl.gif" width="100"></td>
-    <td style="border: none; text-align: center;"><h1>🔧 Tech Stack</h1></td>
-  </tr>
-</table>
+<div style="display: flex; align-items: center; justify-content: center;">
+    <img src="https://media.tenor.com/ls5KtfBxJUMAAAAi/mythikore-anime-girl.gif" width="100" style="margin-right: 20px;">
+    <h1>🔧 Tech Stack</h1>
+</div>
 
 <br><br>
 <div align="center">
