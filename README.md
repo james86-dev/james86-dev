@@ -41,7 +41,7 @@
 
 <img align="right" height="250" width="300" src="https://media1.tenor.com/m/4bVxq_byWJoAAAAC/anime.gif" />
 
-### Technologies I Use
+###
 
 <div align="left">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
@@ -60,7 +60,7 @@
   <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
 </div>
 
-### GitHub Contribution Graph
+###
 
 <div align="center">
   <picture>
