@@ -70,7 +70,7 @@
   </picture>
 </div>
 
-### Support Me
+###
 
 <div align="center">
   <a href="https://www.ko-fi.com/james86-dev">
