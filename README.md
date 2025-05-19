@@ -14,7 +14,7 @@
 
 <br><br><br>
 
-<img align="right" src="https://media.tenor.com/PEp7__gqEYoAAAAi/mythikore-anime-girl.gif" style="float: right; margin-left: 1000000000000;" width="200" />
+<img align="right" src="https://media.tenor.com/PEp7__gqEYoAAAAi/mythikore-anime-girl.gif" style="float: right" width="200" />
 
 
 ###
@@ -23,11 +23,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=50&duration=1000&pause=5000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hey👋%2C+I'm+James." />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=james86-dev.james86-dev" />
-</div>
 
 ###
 <h1 align="center">🔧 Tech Stack</h1>
