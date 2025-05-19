@@ -49,7 +49,7 @@
 </div>
 
 ###
-<h1 align="center">☕ Support Me</h1>
+<h1 align="center">☕ Support Me<img align="right" src="https://media.tenor.com/ls5KtfBxJUMAAAAi/mythikore-anime-girl.gif" /></h1>
 <div align="center">
   <a href="https://www.ko-fi.com/james86-dev">
     <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" width="160" alt="Ko-fi" />
