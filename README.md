@@ -1,6 +1,6 @@
 <!-- 🌟 Banner Image -->
 <div align="center">
-  <img src="https://your-banner-image-url.com/banner.png" width="100%" alt="Banner">
+  <img src="banner.png" width="100%" alt="Banner">
 </div>
 
 <!-- 👋 Wave GIF -->
