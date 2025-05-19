@@ -1,8 +1,7 @@
 <!-- 🌟 Banner Image -->
-<div align="center">
-  <img src="https://wallpapercave.com/wp/wp5026790.jpg" width="100%" style="clip-path: inset(0 0 40% 0); object-fit: cover;" alt="Banner">
+<div style="overflow: hidden; height: 300px;">
+  <img src="https://wallpapercave.com/wp/wp5026790.jpg" width="100%" style="object-fit: cover;" alt="Banner">
 </div>
-
 <!-- 👋 Wave GIF -->
 <div align="center">
   <img height="250" src="https://media.tenor.com/O5EGwZuV3sEAAAAi/wave-hi.gif" />
