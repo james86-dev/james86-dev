@@ -17,7 +17,7 @@
 </div>
 
 ###
-
+![Typing Effect](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=400&height=50&lines=Hey%2C+I'm+James.)
 <h1 align="center">Hey👋</h1>
 
 ###
