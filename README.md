@@ -56,7 +56,7 @@
 </div>
 
 ###
-<h1 align="center">☕ Support Me</h1>
+<h1 align="center">🏆 GitHub Contributions</h1>
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/james86-dev/james86-dev/output/github-snake-dark.svg" />
@@ -67,7 +67,8 @@
 
 ###
 
-<h1 align="center">🏆 GitHub Contributions</h1>
+
+<h1 align="center">☕ Support Me</h1>
 <div align="center">
   <a href="https://www.ko-fi.com/james86-dev">
     <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" width="160" alt="Ko-fi" />
