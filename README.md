@@ -1,6 +1,6 @@
 <!-- 🌟 Banner Image -->
 <div align="center">
-  <img src="https://wallpapercave.com/wp/wp5026790.jpg" width="100%" height="300px" alt="Banner">
+  <img src="https://wallpapercave.com/wp/wp5026790.jpg" width="100%" height="300px" style="object-fit: cover;" alt="Banner">
 </div>
 
 <!-- 👋 Wave GIF -->
