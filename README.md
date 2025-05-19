@@ -24,7 +24,7 @@
 
 ###
 | <img src="https://media.tenor.com/ls5KtfBxJUMAAAAi/mythikore-anime-girl.gif" width="100" /> | 🔧 **Tech Stack** |
-|:-|:-:|
+|:----|:-:|
 
 <br><br>
 <div align="center">
