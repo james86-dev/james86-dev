@@ -1,6 +1,6 @@
 <!-- 👋 Wave GIF -->
 <div align="center">
-  <img height="250" src="https://media.tenor.com/O5EGwZuV3sEAAAAi/wave-hi.gif" />
+  <img height="250" src="https://media1.tenor.com/m/OF2oQX_PQ9UAAAAC/dfg.gif" />
 </div>
 
 ###
