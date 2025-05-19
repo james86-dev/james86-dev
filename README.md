@@ -26,8 +26,8 @@
 
 
 <h1 align="center">
-  <img align="left" src="https://media.tenor.com/ls5KtfBxJUMAAAAi/mythikore-anime-girl.gif" width="150">
   🔧 Tech Stack
+  <img align="left" src="https://media.tenor.com/ls5KtfBxJUMAAAAi/mythikore-anime-girl.gif" width="150">
 </h1>
 
 <br><br>
