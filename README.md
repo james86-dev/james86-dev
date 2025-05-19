@@ -70,6 +70,7 @@
 
 ###
 
+<h1 align="center">🏆 GitHub Contributions</h1>
 <div align="center">
   <a href="https://www.ko-fi.com/james86-dev">
     <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" width="160" alt="Ko-fi" />
