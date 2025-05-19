@@ -43,7 +43,7 @@
 
 <br><br><br><br><br><br> <!-- Added spacing to prevent overlap -->
 
-<h2 align="center">📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇</h2>
+<h2 align="center">💻 𝓣𝓮𝓬𝓱 𝓢𝓽𝓪𝓬𝓴 💻</h2>
 <div align="center">
   <img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right">
 </div>
@@ -80,7 +80,7 @@
   </a>
 </p>
 
-<br>
+<br><br><br><br>
 
 <h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓈 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
 
