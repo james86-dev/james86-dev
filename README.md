@@ -13,7 +13,7 @@
 </div>
 
 <div style="position: relative; text-align: right;">
-  <img src="https://media.tenor.com/PEp7__gqEYoAAAAi/mythikore-anime-girl.gif" style="position: absolute; top: 0; right: 0; width: 150px; z-index: 10;" />
+  <img src="https://media.tenor.com/PEp7__gqEYoAAAAi/mythikore-anime-girl.gif" style="position: absolute; top: 0; right: 0; width: 500px; z-index: -10;" />
 </div>
 
 <br><br><br><br>
