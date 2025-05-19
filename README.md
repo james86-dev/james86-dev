@@ -31,7 +31,7 @@
 ###
 <h1 align="center">💻 Tech Stack</h1>
 
-  <img align="right" height="25" src="https://media1.tenor.com/m/0Zrxg3b0nMwAAAAC/anime-girl.gif">
+  <img align="right" height="150" width="150" src="https://media1.tenor.com/m/0Zrxg3b0nMwAAAAC/anime-girl.gif">
 
   
 ###
