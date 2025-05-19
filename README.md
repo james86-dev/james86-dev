@@ -17,6 +17,9 @@
     <li>
         <b>Working @:</b> /
     </li>
+    <li>
+        <b>Studying applied computer science:</b>
+    </li>
     <br>
     <br>
     <br>
