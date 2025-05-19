@@ -13,14 +13,14 @@ Hi 👋🏼, I'm James.<br>👨🏼‍🎓 Studying Applied Computer Science
   </ul>
 </div>
 
-<br><br> <!-- Added spacing to prevent overlap -->
+<br><br><br><br><br><br> <!-- Added spacing to prevent overlap -->
 
 <h2 align="center">𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮</h2>
 <div align="center">
   <img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right">
 </div>
 
-<br><br><br><br> <!-- Extra spacing for readability -->
+<br><br> <!-- Extra spacing for readability -->
 
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"><br>
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"><br>
