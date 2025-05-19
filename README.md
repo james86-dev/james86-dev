@@ -27,13 +27,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=50&duration=1000&pause=5000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hey👋%2C+I'm+James." />
 </div>
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/james86-dev/james86-dev/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/james86-dev/james86-dev/output/github-snake.svg" />
-    <img width="825" alt="GitHub Snake" src="https://raw.githubusercontent.com/james86-dev/james86-dev/output/github-snake.svg" />
-  </picture>
-</div>
 
 ###
 
@@ -63,8 +56,18 @@
 </div>
 
 ###
-
 <h1 align="center">☕ Support Me</h1>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/james86-dev/james86-dev/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/james86-dev/james86-dev/output/github-snake.svg" />
+    <img width="825" alt="GitHub Snake" src="https://raw.githubusercontent.com/james86-dev/james86-dev/output/github-snake.svg" />
+  </picture>
+</div>
+
+###
+
+<h1 align="center">🏆 GitHub Contributions</h1>
 <div align="center">
   <a href="https://www.ko-fi.com/james86-dev">
     <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" width="160" alt="Ko-fi" />
