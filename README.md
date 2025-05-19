@@ -3,7 +3,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=james86-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
+
 <h1 align="left">👨‍💻 About Me</h1>
 <br>
 <div align="left">
@@ -13,11 +13,8 @@
   <p>🚀 Always eager to learn and work on exciting projects</p>
 </div>
 <img height="225" align="right" src="https://media.tenor.com/PEp7__gqEYoAAAAi/mythikore-anime-girl.gif" />
-<br><br><br>
+<br><br>
 
-
-
-###
 
 <h1 align="left">🔧 Tech Stack</h1>
 <br>
@@ -38,7 +35,9 @@
   <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <br><br>
 </div>
-<br><br><br>
+
+<br>
+
 <h1 align="left">🏆 GitHub Contributions</h1>
 <div align="left">
   <picture>
@@ -48,7 +47,6 @@
   </picture>
 </div>
 
-###
 <h1 align="center">☕ Support Me</h1>
 <div align="center">
   <a href="https://www.ko-fi.com/james86-dev">
