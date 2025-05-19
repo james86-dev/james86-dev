@@ -80,19 +80,4 @@
   </a>
 </p>
 
-<br><br><br><br>
-
-<h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓈 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
-
-<div align="center">
-  <img src="https://i.imgur.com/tzYKRfd.gif">
-</div>
-
-<hr>
-
-<h2 align="center">💰 You can help me by Donating</h2>
-<a href="https://ko-fi.com/james86-dev">
-  <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white">
-</a>
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
