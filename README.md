@@ -46,7 +46,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/james86-dev/james86-dev/output/github-snake.svg" />
     <img width="825" alt="GitHub Snake" src="https://raw.githubusercontent.com/james86-dev/james86-dev/output/github-snake.svg" />
   </picture>
-  <img align="right" src="https://media.tenor.com/ls5KtfBxJUMAAAAi/mythikore-anime-girl.gif" />
 </div>
 
 ###
