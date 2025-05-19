@@ -19,8 +19,9 @@
 <br><br><br><br>
 
 ###
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=50&duration=1000&pause=5000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hey👋%2C+I'm+James." />
+<div style="position: relative; text-align: right;">
+  <img src="https://media.tenor.com/PEp7__gqEYoAAAAi/mythikore-anime-girl.gif" style="position: absolute; top: 0; right: 0; width: 150px; z-index: 10;" />
+  <p style="position: relative; z-index: 5;">Hey, I'm James!</p>
 </div>
 
 ###
