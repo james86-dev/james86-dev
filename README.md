@@ -1,4 +1,4 @@
-# 💫 About Me:
+<h1 align="center">𝓜𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮</h1>
 Hi 👋🏼, I'm James.<br>👨🏼‍🎓 studying applied computer science
 
 
