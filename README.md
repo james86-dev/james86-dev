@@ -7,7 +7,7 @@
 <h1 align="left">👨‍💻 About Me</h1>
 <br>
 <div align="left">
-  <p>Hey there! I'm James, a passionate developer exploring the realms of AI, Web Development, and Game Development.</p>
+  <p>Hey there! I'm James, a developer exploring the realms of AI, Web Development, and Game Development.</p>
   <p>🎓 Studying Applied Computer Science</p>
   <p>🎮 Likes: Anime, Osu, Rhythm Games, AI's, Tech</p>
   <p>🚀 Always eager to learn and work on exciting projects</p>
