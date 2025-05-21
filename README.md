@@ -5,16 +5,15 @@
 
 
 
-## 👨‍💻 About Me
-
-Hey there! I'm James, a developer exploring the realms of **AI**, **Web Development**, and **Game Development**.
-
-- 🎓 Studying *Applied Computer Science*
-- 🎮 Likes: *Anime, Osu, Rhythm Games, AIs, Tech*
-
-👉 Learn more about me here → [james86.dev/about](https://james86.dev/about)
-
-
+<h1 align="left">👨‍💻 About Me</h1>
+<br>
+<div align="left">
+  <p>Hey there! I'm James, a developer exploring the realms of AI, Web Development, and Game Development.</p>
+  <p>🎓 Studying Applied Computer Science</p>
+  <p>🎮 Likes: Anime, Osu, Rhythm Games, AI's, Tech</p>
+  👉 Learn more about me here → [james86.dev/about](https://james86.dev/about)
+</div>
+<br>
 
 <h1 align="left">🔧 Tech Stack</h1>
 <img height="225" align="right" src="https://media.tenor.com/PEp7__gqEYoAAAAi/mythikore-anime-girl.gif" />
