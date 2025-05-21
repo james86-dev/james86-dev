@@ -12,7 +12,7 @@
   <p>🎮 Likes: Anime, Osu, Rhythm Games, AI's, Tech</p>
   <p>🚀 <a href="https://james86.dev/about">More about me</a></p>
   
-  [![More about me](https://img.shields.io/badge/About_Me-james86.dev-blue?style=flat&logo=google-chrome)](https://james86.dev/about)
+  **👉 Learn more about me here → [james86.dev/about](https://james86.dev/about)**
 </div>
 <br>
 
