@@ -12,9 +12,11 @@
   <p>🎮 Likes: Anime, Osu, Rhythm Games, AI's, Tech</p>
   <p>🚀 Always eager to learn and work on exciting projects</p>
 </div>
-<img height="225" align="right" src="https://media.tenor.com/PEp7__gqEYoAAAAi/mythikore-anime-girl.gif" />
+<br>
+
 
 <h1 align="left">🔧 Tech Stack</h1>
+<img height="225" align="right" src="https://media.tenor.com/PEp7__gqEYoAAAAi/mythikore-anime-girl.gif" />
 <br>
 <div align="left">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
