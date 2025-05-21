@@ -15,7 +15,7 @@ Hey there! I'm James, a developer exploring the realms of **AI**, **Web Developm
 - 👉 Learn more about me here → [james86.dev/about](https://james86.dev/about)
 <br>
 
-<h1 align="left">🔧 Tech Stack</h1>
+# 🔧 Tech Stack
 <img height="225" align="right" src="https://media.tenor.com/PEp7__gqEYoAAAAi/mythikore-anime-girl.gif" />
 <br>
 <div align="left">
