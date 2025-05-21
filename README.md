@@ -3,7 +3,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=james86-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
-# 👨‍💻 About Me<br>
+# 👨‍💻 About Me
+<br>
 Hey there! I'm James, a developer exploring the realms of **AI**, **Web Development**, and **Game Development**.
 
 - 🎓 Studying *Applied Computer Science*
