@@ -13,8 +13,6 @@
   <p>🚀 Always eager to learn and work on exciting projects</p>
 </div>
 <img height="225" align="right" src="https://media.tenor.com/PEp7__gqEYoAAAAi/mythikore-anime-girl.gif" />
-<br><br><br>
-
 
 <h1 align="left">🔧 Tech Stack</h1>
 <br>
