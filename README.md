@@ -13,6 +13,15 @@
   👉 Learn more about me here → [james86.dev/about](https://james86.dev/about)
 </div>
 <br>
+## 👨‍💻 About Me
+
+Hey there! I'm James, a developer exploring the realms of **AI**, **Web Development**, and **Game Development**.
+
+- 🎓 Studying *Applied Computer Science*
+- 🎮 Likes: *Anime, Osu, Rhythm Games, AIs, Tech*
+
+👉 Learn more about me here → [james86.dev/about](https://james86.dev/about)
+
 
 
 <h1 align="left">🔧 Tech Stack</h1>
