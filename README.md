@@ -13,7 +13,7 @@
   👉 Learn more about me here → [james86.dev/about](https://james86.dev/about)
 </div>
 <br>
-## 👨‍💻 About Me
+### 👨‍💻 About Me
 
 Hey there! I'm James, a developer exploring the realms of **AI**, **Web Development**, and **Game Development**.
 
