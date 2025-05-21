@@ -26,7 +26,7 @@ Hey there! I'm James, a developer exploring the realms of **AI**, **Web Developm
 
 <br>
 
-<h1 align="left">🏆 GitHub Contributions</h1>
+# 🏆 GitHub Contributions
 <div align="left">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/james86-dev/james86-dev/output/github-snake-dark.svg" />
