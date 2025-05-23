@@ -10,7 +10,7 @@ Hey there! I'm James, a developer exploring the realms of **AI**, **Web Developm
 
 - 🎓 Studying *Applied Computer Science*
 
-- 🎮 Likes: *Anime, Osu, Rhythm Games, AIs, Tech*
+- 🎮 Likes: *Anime, Rhythm Games, AIs, Tech*
 
 - 👉 Learn more about me here → [james86.dev/about](https://james86.dev/about)
 <br>
