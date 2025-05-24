@@ -6,7 +6,7 @@
 # 👨‍💻 About Me
 <br>
 
-Hey there! I'm James, a developer exploring the realms of **AI**, **Web Development**, and **Game Development**.
+Hey there! I'm James, a developer exploring the realms of **AI**, **Machine Learning**, and **Game Development**.
 
 - 🎓 Studying *Applied Computer Science*
 
