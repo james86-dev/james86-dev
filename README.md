@@ -15,9 +15,9 @@
     <p>I'm a developer researching AI, Machine Learning, and Game Development ☆</p>
     <p>
       <a href="https://james86.dev/about">Website</a> | 
-      <a href="https://james86.dev/about">Twitter</a> | 
-      <a href="https://james86.dev/about">Discord</a> | 
-      <a href="https://james86.dev/about">LinkedIn</a>
+      <a href="https://twitter.com/james86">Twitter</a> | 
+      <a href="https://discordapp.com/users/james86">Discord</a> | 
+      <a href="https://linkedin.com/in/james86">LinkedIn</a>
     </p>
   </div>
 <p align="center">
